@@ -10,6 +10,8 @@ Feel free to take a look around and get in touch if you'd like to collaborate or
 
 You can find my contact information below:
 
+# Social Media Links
+
 Email: [mtcnbzks@gmail.com]
 
 LinkedIn: [https://www.linkedin.com/in/mtcnbzks/]
