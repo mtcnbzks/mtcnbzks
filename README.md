@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mtcnbzks/mtcnbzks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### Welcome to my Github page!
+Hi, I'm Mehmetcan. I'm a CS Student, passionate about web development.
 
-Here are some ideas to get you started:
+Here, on my Github page, you'll find my projects. I enjoy exploring new technologies and solving complex problems, and I'm constantly looking for opportunities to improve my skills and knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to take a look around and get in touch if you'd like to collaborate or chat about technology.
 
+You can find my contact information below:
+
+Email: [mtcnbzks@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/mtcnbzks/]
+Twitter: [https://twitter.com/mtcnbzks]
+Thanks for stopping by!
+
+Mehmetcan
