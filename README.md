@@ -9,4 +9,5 @@ Here, on my Github page, you'll find my projects. I enjoy exploring new technolo
 Feel free to take a look around and get in touch if you'd like to collaborate or chat about technology.
 
 Thanks for stopping by!
+
 Mehmetcan
